@@ -1,0 +1,98 @@
+[
+  {
+    "id": 1,
+    "titulo": "Guerra Mundial Z",
+    "autor": "Max Brooks",
+    "genero": "Terror",
+    "portada": "https://picsum.photos/id/24/600/800",
+    "calificacion": 4.5,
+    "paginas": 420,
+    "sinopsis": "Una historia oral de la guerra contra los zombis, contada años después por quienes la sobrevivieron en distintos rincones del planeta.",
+    "resenia": "Lo más interesante es que no sigue a un héroe: está armado como una colección de entrevistas y cada voz muestra una cara distinta de la crisis. El miedo no viene solo de los monstruos, sino de las decisiones tardías de gobiernos y ciudades. Se puede leer por capítulos sueltos, casi como cuentos cortos.",
+    "etiquetas": ["Zombis", "Posapocalíptico", "Entrevistas"]
+  },
+  {
+    "id": 2,
+    "titulo": "Mo Dao Zu Shi",
+    "autor": "Mo Xiang Tong Xiu",
+    "genero": "Fantasía",
+    "portada": "https://picsum.photos/id/20/600/800",
+    "calificacion": 5.0,
+    "paginas": 600,
+    "sinopsis": "Wei Wuxian regresa a la vida trece años después de su muerte, y su reencuentro con Lan Wangji reabre viejos misterios del mundo de la cultivación.",
+    "resenia": "Una novela de fantasía con intriga: cada capítulo suelta una pista nueva sobre el pasado. Lo mejor es el contraste entre sus protagonistas, uno sarcástico y desenfadado, el otro serio y reservado. El ritmo es largo, pero la recompensa llega con personajes secundarios muy bien trabajados.",
+    "etiquetas": ["Danmei", "Cultivación", "Misterio"]
+  },
+  {
+    "id": 3,
+    "titulo": "Tian Guan Ci Fu",
+    "autor": "Mo Xiang Tong Xiu",
+    "genero": "Fantasía",
+    "portada": "https://picsum.photos/id/10/600/800",
+    "calificacion": 4.8,
+    "paginas": 650,
+    "sinopsis": "Xie Lian, un príncipe convertido en dios que ya fue desterrado dos veces, asciende por tercera vez y se cruza con el misterioso Hua Cheng.",
+    "resenia": "Empieza con un tono casi cómico, con un dios venido a menos sobreviviendo de lo que encuentra, y poco a poco se vuelve una historia con mucho corazón sobre la compasión y la fe. La relación entre sus dos protagonistas es el centro emocional, tierna y dramática a la vez.",
+    "etiquetas": ["Danmei", "Dioses", "Romance"]
+  },
+  {
+    "id": 4,
+    "titulo": "Save (Scum Villain's Self-Saving System)",
+    "autor": "Mo Xiang Tong Xiu",
+    "genero": "Fantasía",
+    "portada": "https://picsum.photos/id/11/600/800",
+    "calificacion": 4.7,
+    "paginas": 700,
+    "sinopsis": "Shen Yuan despierta dentro de una novela web que criticaba sin piedad, justo en el cuerpo del villano, y debe cambiar su destino con ayuda de un sistema.",
+    "resenia": "Una comedia de fantasía que se burla con cariño de las novelas web clásicas. El protagonista narra con humor y comentarios internos muy graciosos, pero debajo del chiste hay una historia sobre segundas oportunidades y malos entendidos. Se lee rápido y deja ganas de seguir.",
+    "etiquetas": ["Danmei", "Comedia", "Transmigración"]
+  },
+  {
+    "id": 5,
+    "titulo": "Frankenstein",
+    "autor": "Mary Shelley",
+    "genero": "Clásicos",
+    "portada": "https://picsum.photos/id/12/600/800",
+    "calificacion": 4.4,
+    "paginas": 280,
+    "sinopsis": "Un joven científico da vida a una criatura y descubre demasiado tarde las consecuencias de abandonarla a su suerte.",
+    "resenia": "Esperaba un libro de monstruos y me encontré con una reflexión sobre la responsabilidad. La criatura es mucho más humana de lo que sugiere el cine. Es corto para ser un clásico y deja preguntas sobre la ciencia y la soledad.",
+    "etiquetas": ["Gótico", "Ciencia", "Siglo XIX"]
+  },
+  {
+    "id": 6,
+    "titulo": "Drácula",
+    "autor": "Bram Stoker",
+    "genero": "Terror",
+    "portada": "https://picsum.photos/id/13/600/800",
+    "calificacion": 4.2,
+    "paginas": 480,
+    "sinopsis": "Un abogado viaja a un castillo de los Cárpatos y desata una amenaza que un grupo de aliados deberá detener.",
+    "resenia": "Está narrado con diarios, cartas y recortes, como un expediente que vas armando mientras lees. El conde aparece poco, pero su presencia se siente en cada página. Algunas partes se alargan, aunque el tramo final tiene un ritmo de persecución muy entretenido.",
+    "etiquetas": ["Vampiros", "Epistolar", "Gótico"]
+  },
+  {
+    "id": 7,
+    "titulo": "Pedro Páramo",
+    "autor": "Juan Rulfo",
+    "genero": "Realismo mágico",
+    "portada": "https://picsum.photos/id/14/600/800",
+    "calificacion": 4.9,
+    "paginas": 130,
+    "sinopsis": "Juan Preciado llega a Comala en busca de su padre y encuentra un pueblo habitado por murmullos y recuerdos.",
+    "resenia": "Es breve, pero pide una lectura atenta: los tiempos se mezclan y no siempre sabes quién habla, y esa confusión es parte de la experiencia. Logra que un pueblo entero se sienta como un personaje. Gran lectura para conocer la literatura mexicana del siglo XX.",
+    "etiquetas": ["México", "Fantasmas", "Siglo XX"]
+  },
+  {
+    "id": 8,
+    "titulo": "1984",
+    "autor": "George Orwell",
+    "genero": "Distopía",
+    "portada": "https://picsum.photos/id/17/600/800",
+    "calificacion": 4.6,
+    "paginas": 330,
+    "sinopsis": "Winston Smith vive bajo la vigilancia constante del Partido y se atreve a guardar un pequeño espacio de libertad personal.",
+    "resenia": "Una lectura incómoda en el mejor sentido: muestra cómo el control puede llegar hasta el lenguaje y la memoria. La atmósfera gris y opresiva está lograda con pocos recursos. El ritmo baja en la parte central, pero el final es de los más impactantes que he leído.",
+    "etiquetas": ["Vigilancia", "Política", "Clásico"]
+  }
+]
